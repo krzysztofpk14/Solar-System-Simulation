@@ -6,7 +6,7 @@ This README file aim to explain the code of the simulation of the Solar System
 
 ## Introduction
 
-The Solar System consits of the star named 'Sun' and planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. The phsics behind the motion of planets and stars are described by graviataional forces:
+The Solar System consits of the star named 'Sun' and planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. The physics behind the motion of planets and stars are described by graviataional forces:
 
 $\mathbf{F}_g = G M_S m \frac{\mathbf{r}}{r^3}$ 
 
