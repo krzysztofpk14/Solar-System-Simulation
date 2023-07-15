@@ -53,6 +53,7 @@ Begining with $\mathbf{r}(t)$ and $\mathbf{v} (t)$ one can calulate the positon 
 ### Folders
  
 - `data` - this folder cointains files named after each planet. Each file contains information about planet's position in a given time. The layout of the files is as folows: time $t$, x-cooridnate $x(t)$, y-coordinate $y(t)$
+- `plots` - this folder contains plots of the current and past positions of the planets in a given time (in days) given as a title of the plot
 
 
 
