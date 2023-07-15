@@ -1,0 +1,12 @@
+Mercury 0 57.9e9 47.3e3 0
+Venus 0 108.2e9 35e3 0
+Earth 0 149.6e9 29.8e3 0
+Mars 0 228e9 24.1e3 0
+Komet1 0 228e9 33e3 0
+Komet2 0 228e9 33.5e3 0
+Komet3 0 228e9 34e3 0
+Jupiter 0 778.5e9 13.1e3 0
+Saturn 0 1432e9 9.7e3 0
+Uranus 0 2867e9 6.8e3 0
+Neptune 0 4515e9 5.4e3 0
+Pluto 0 5906.4e9 4.7e3 0
