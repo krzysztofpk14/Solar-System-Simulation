@@ -124,4 +124,5 @@ Begining with $\mathbf{r}(t)$ and $\mathbf{v} (t)$ one can calulate the positon 
 - `from_file()` - reads the `planets.txt` file to exctract the name of each planet, it's initial position and velocity vector (Vec2D). Then writes the data to a `planets` vector.
 
 ## Authors
-- Krzysztof Kuba
+- Krzysztof Kuba - author of the code
+- Michał Suchorowski - originator of the project
