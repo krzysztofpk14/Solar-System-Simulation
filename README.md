@@ -8,13 +8,13 @@ This README file aim to explain the code of the simulation of the Solar System
 
 The Solar System consits of the star named 'Sun' and planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. The phsics behind the motion of planets and stars are described by graviataional forces:
 
-$\mathbf{F}_g = G M_S m \frac{{r}}{r^3}$ 
+$\mathbf{F}_g = G M_S m \frac{\mathbf{r}}{r^3}$ 
 
-Where $\bold{F}_g$ is a gravitational force, $G$ is a gravitaional constant, $M_S$ is the mass of the Sun, $m$ is the mass of the planet, $\bold{r}$ is the position vector of a planet with respect to Sun and $r$ the length of that vector.
+Where $\mathbf{F}_g$ is a gravitational force, $G$ is a gravitaional constant, $M_S$ is the mass of the Sun, $m$ is the mass of the planet, $\bold{r}$ is the position vector of a planet with respect to Sun and $r$ the length of that vector.
 
 Moreover, the motion of each planet can be discribed by its position and velocity vectors whose values can be calulated based on these equations:
 
-$\bold{r} (t + \Delta t) = \bold{r} (t) + \bold{v} (t)$
+$\mathbf{r} (t + \Delta t) = \bold{r} (t) + \bold{v} (t)$
 
 $\bold{v}(t + \Delta t) = \bold{v} (t) - G M_S \frac{\bold{r}(t +\Delta t)}{(r(t + \Delta t)^3)}  \Delta t$
 
